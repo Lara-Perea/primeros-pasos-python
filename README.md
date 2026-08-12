@@ -7,14 +7,14 @@ Acá voy reuniendo ejercicios y prácticas que voy realizando durante mi formaci
 La idea es conservar este recorrido para poder volver a mirar mis primeros ejercicios en el futuro y ver cuánto fui aprendiendo y mejorando con el tiempo.
 
 ## 📚 ¿Qué vas a encontrar?
-Variables y tipos de datos
-Operadores matemáticos
-Porcentajes y cálculos
-Conversiones de unidades
-Intercambio de variables
-Operadores // y %
-Resolución de problemas mediante algoritmos simples
-Y nuevos conceptos que iré incorporando a medida que avance
+- Variables y tipos de datos
+- Operadores matemáticos
+- Porcentajes y cálculos
+- Conversiones de unidades
+- Intercambio de variables
+- Operadores // y %
+- Resolución de problemas mediante algoritmos simples
+- Y nuevos conceptos que iré incorporando a medida que avance
 
 Este repositorio no busca mostrar solamente el resultado final, sino también representar el proceso de aprendizaje: empezar desde lo básico, enfrentar problemas, equivocarme, entenderlos y seguir avanzando.
 
