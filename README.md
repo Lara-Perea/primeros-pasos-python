@@ -33,3 +33,6 @@ Programa que calcula el importe final de un cliente de telefonía a partir de la
 
 ### Sueldo-vendedor
 Programa que calcula el sueldo final de un vendedor a partir de un sueldo básico y una comisión del 10 % sobre el total de sus ventas mensuales.
+
+### Cajero-automatico
+Programa que determina la cantidad de billetes de cada denominación que debe entregar un cajero automático, utilizando los operadores // y % para distribuir el monto solicitado con la menor cantidad de billetes posible.
