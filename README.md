@@ -24,7 +24,7 @@ Este es solamente el comienzo. A medida que avance en Python, iré incorporando 
 
 ## Ejercicios
 
-### Inversión bancaria/Ejercicio banco
+### Inversión-bancaria
 
 Programa que calcula cuánto dinero tendrá una persona después de invertir un capital durante una determinada cantidad de meses, aplicando un incremento mensual del 6 % no acumulativo.
 
