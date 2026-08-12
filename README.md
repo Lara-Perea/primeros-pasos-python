@@ -28,5 +28,5 @@ Este es solamente el comienzo. A medida que avance en Python, iré incorporando 
 
 Programa que calcula cuánto dinero tendrá una persona después de invertir un capital durante una determinada cantidad de meses, aplicando un incremento mensual del 6 % no acumulativo.
 
-## Importe-telefonia
+### Importe-telefonia
 Programa que calcula el importe final de un cliente de telefonía a partir de la cantidad de llamadas realizadas y el tiempo total de comunicación, considerando un costo fijo por llamada y un costo por segundo de comunicación.
