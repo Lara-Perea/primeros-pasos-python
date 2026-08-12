@@ -30,3 +30,6 @@ Programa que calcula cuánto dinero tendrá una persona después de invertir un 
 
 ### Importe-telefonia
 Programa que calcula el importe final de un cliente de telefonía a partir de la cantidad de llamadas realizadas y el tiempo total de comunicación, considerando un costo fijo por llamada y un costo por segundo de comunicación.
+
+### Sueldo-vendedor
+Programa que calcula el sueldo final de un vendedor a partir de un sueldo básico y una comisión del 10 % sobre el total de sus ventas mensuales.
