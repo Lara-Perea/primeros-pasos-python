@@ -1,4 +1,4 @@
-## Primeros pasos en Python 🐍
+## Primeros pasos en Python 
 
 Este repositorio nace como una forma de documentar mis primeros pasos en Python y registrar mi evolución a medida que avanzo en el aprendizaje de programación.
 
@@ -6,7 +6,7 @@ Acá voy reuniendo ejercicios y prácticas que voy realizando durante mi formaci
 
 La idea es conservar este recorrido para poder volver a mirar mis primeros ejercicios en el futuro y ver cuánto fui aprendiendo y mejorando con el tiempo.
 
-## 📚 ¿Qué vas a encontrar?
+## ¿Qué vas a encontrar?
 - Variables y tipos de datos
 - Operadores matemáticos
 - Porcentajes y cálculos
@@ -18,7 +18,7 @@ La idea es conservar este recorrido para poder volver a mirar mis primeros ejerc
 
 Este repositorio no busca mostrar solamente el resultado final, sino también representar el proceso de aprendizaje: empezar desde lo básico, enfrentar problemas, equivocarme, entenderlos y seguir avanzando.
 
-## 🚀 En construcción
+## En construcción
 
 Este es solamente el comienzo. A medida que avance en Python, iré incorporando nuevos ejercicios y proyectos para dejar registrado mi progreso y evolución.
 
@@ -36,3 +36,6 @@ Programa que calcula el sueldo final de un vendedor a partir de un sueldo básic
 
 ### Cajero-automatico
 Programa que determina la cantidad de billetes de cada denominación que debe entregar un cajero automático, utilizando los operadores // y % para distribuir el monto solicitado con la menor cantidad de billetes posible.
+
+### Planificacion_fiesta
+Programa que determina la organización de una fiesta según el pronóstico del tiempo, el presupuesto disponible, la comida y el tipo de pelotero.
